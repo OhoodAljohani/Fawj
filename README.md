@@ -8,3 +8,7 @@
 1. تم تطوير التطبيق في عدة خطوات شملت بناء شبكة عصبية عميقة و ربط الشبكة بتطبيق اندرويد باستخدام أحدث التقنيات. 
 2. مجموعة البيانات المستخدمة لتنفيذ النموذج الأولي هي [ShanghaiTech](https://www.kaggle.com/tthien/shanghaitech)
 3. تحليل و معالجة قاعدة البيانات يتكون من عدة خطوات أبرزها كان توليد density map باستخدام مكتبة openCV 
+## واجهات تطبيق فوج النسخة الأولى : 
+![image](https://user-images.githubusercontent.com/59482214/155958717-bcc55ba5-68fb-4b60-a7af-a3fa05a0c616.png)
+![image](https://user-images.githubusercontent.com/59482214/155958739-ba64b598-5ee6-40ea-a480-f73d84eab854.png)
+![image](https://user-images.githubusercontent.com/59482214/155958765-8dd79995-c054-471a-b8ea-efdf8763e8cd.png)
